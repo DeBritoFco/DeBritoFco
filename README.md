@@ -1,4 +1,4 @@
-### Olá !!! Fco de Brito, estudante começando no da programação e tecnologia 👋
+### Olá !!! Fco de Brito, estudante começando no mundo da programação e tecnologia 👋
 
 - 🔭 Atualmente não estou trabalhando
 - 🌱 Estou aprendendo Python, Javascript, Typescript, Html, Css e Inglês
