@@ -1,5 +1,10 @@
-### Olá !!! Fco de Brito, estudante começando no mundo da programação e tecnologia 👋
+### Olá, eu sou Fco de Brito 👋
 
+```ruby
+class Programmer
+
+	def initialize() 
+```
 - 🔭 Estudando
 - 🌱 Estou aprendendo Ruby, Ruby on rails e Inglês
 - 👯 Transição de carreira
