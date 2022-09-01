@@ -1,7 +1,7 @@
 ### Olá !!! Fco de Brito, estudante começando no mundo da programação e tecnologia 👋
 
 - 🔭 Atualmente não estou trabalhando
-- 🌱 Estou aprendendo Python, Javascript, Typescript, Html, Css e Inglês
+- 🌱 Estou aprendendo Ruby, Ruby on rails e Inglês
 - 👯 Estou procurando uma transição de carreira
 - 🤔 Estou procurando ajuda com algum estágio ou minha primeira oportunidade
 
