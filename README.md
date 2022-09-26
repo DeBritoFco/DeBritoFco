@@ -1,9 +1,9 @@
 ### Olá, eu sou Fco de Brito 👋
 
 ```Python
-class Programmer
+message = "Hello World !"
 
-	def initialize() 
+	 
 ```
 - 🔭 Estudando
 - 🌱 Estou aprendendo Ruby, Ruby on rails e Inglês
