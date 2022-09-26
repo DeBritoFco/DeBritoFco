@@ -1,6 +1,6 @@
 ### Olá, eu sou Fco de Brito 👋
 
-```ruby
+```Python
 class Programmer
 
 	def initialize() 
