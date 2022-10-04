@@ -6,7 +6,7 @@ def = primeiro_metodo():
 	
 ```
 - 🔭 Estudando
-- 🌱 HTML, CSS, JS, PYTHON, DJANGO, FLASK
+- 🌱 HTML, CSS, JS, PYTHON, DJANGO, FLASK, QA
 - 👯 Transição de carreira
 - 🤔 “Lembre-se do passado, pense no futuro, porém, contudo, todavia, viva o presente com bastante intensidade.” 
 
