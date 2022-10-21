@@ -1,10 +1,5 @@
 ### Olá, eu sou Fco de Brito 👋
 
-```Python
-def = primeiro_metodo():
-	pass
-	
-```
 - 🔭 Estudando
 - 🌱 HTML, CSS, JS, PYTHON, DJANGO, FLASK, QA
 - 👯 Transição de carreira
