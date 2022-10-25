@@ -1,7 +1,7 @@
 ### Olá, eu sou Francisco Wilson de Brito 👋
 
 - 🌱 Estudando 
-- 💻 HTML, CSS, JS, RUBY, NODE, QA
+- 💻 Tenho estudado todos os dias 
 - 💾 Transição de carreira - Quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!
 - 🎯 “Lembre-se do passado, pense no futuro, porém, contudo, todavia, viva o presente com bastante intensidade.” 
 - 🔭 Evoluindo sempre
